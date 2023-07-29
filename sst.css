@@ -1,0 +1,58 @@
+.btn {background-color : #687477; color:white;}
+
+#navi {background-color :#403234;}
+
+section {background-color:#E1C2B3;}
+
+#card1 {border-radius: 1rem; background-color: #f7f3f5;}
+#card2 {border-radius: 1rem; background-color: #f7f3f5;}
+#card3 {border-radius: 1rem; background-color: #f7f3f5;}
+#card4 {border-radius: 1rem; background-color: #f7f3f5;}
+.dropdown-menu{background-color :#403234;}
+
+.dropdown-item{color:white;}
+
+ #p{color:#687477; font-size: 18px;}
+#link{color:#687477;}
+#graph{color:#687477;}
+.cat {font-size: 15px;}
+#cerror{width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;}
+
+.form-label, .check{font-size: 18px;}
+
+nav{font-family:Sans Condensed;
+	font-weight:bold;
+	font-variant: small-caps;
+	font-size: 1.2em;
+	letter-spacing: 0.8px;}
+	
+body{font-family:Sans Condensed;}
+
+ .content {
+  width: 30%;
+  margin: 0px auto;
+  padding: 20px;
+  border: 1px solid #B0C4DE;
+  background: white;
+  border-radius: 0px 0px 10px 10px;
+}
+
+.error {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;
+}
+
+
